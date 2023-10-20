@@ -2,7 +2,7 @@ def hello_world():
     print("Hello, World!")
 
 def print_something():
-    print("This is Dania")
+    print("This is Wang")
 
 def main():
     hello_world()
