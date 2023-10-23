@@ -1,5 +1,5 @@
 def hello_world():
-    print("Hello, World! Hello, ML")
+    print("Hello, World! Hello, Machine learning")
 
 def print_something():
     print("This is Wang")
